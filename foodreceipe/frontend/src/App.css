@@ -1,0 +1,59 @@
+/* footer */
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+.footer {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.navbar {
+  box-shadow: 0 -4px 8px 0 rgba(0, 0, 0, 0.2), 0 -6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/* .footer {
+  background-color: #14a44d;
+  padding: 10px 0px;
+} */
+/*
+.footer p {
+  margin: 0;
+}
+
+.footer-nav {
+  list-style: none;
+  padding: 0;
+  text-align: right;
+}
+
+.footer-nav li {
+  display: inline-block;
+  margin-left: 40px;
+}
+
+.footer-nav li:first-child {
+  margin-left: 0;
+}
+
+.footer-nav li a {
+  color: #333;
+  text-decoration: none;
+}
+
+.footer-nav li a:hover {
+  color: white;
+}
+ */
+.card-recipe {
+  width: 250px;
+  height: 125px;
+  transition: all 0.3s;
+}
+.card-recipe:hover {
+  scale: 1.05;
+}
+
+.showmore {
+  transition: all 0.3s;
+}
+.showmore:hover {
+  scale: 1.1;
+}

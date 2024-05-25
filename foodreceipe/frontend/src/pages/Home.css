@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.background-image {
+  background-image: url("https://img.freepik.com/free-photo/healthy-chinese-cabbage-salad-isolated-white-background_123827-20846.jpg?w=996&t=st=1714920467~exp=1714921067~hmac=350564d5a57fa9050d8661f33fa3a22ec8fc9f7b214774a0082714f885810bc6");
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  width: 100%;
+  display: flex;
+  justify-content: left;
+  align-items: top;
+  color: black;
+  text-align: left;
+  opacity: 1;
+  box-shadow: 0 0 8px 8px white inset;
+}
+
+.content {
+  padding: 20px;
+}
+/* about section */
+.paragraphs p {
+  text-align: left;
+}
+
+/* our services */
+.services {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.container {
+  text-align: center;
+}
+/* .card {
+  display: flex;
+  align-items: center;
+} */
+.card-body {
+  text-align: left;
+}
+
+.card-img-left {
+  padding-left: 30px;
+  padding-top: 8px;
+  width: 120px;
+  height: 120px;
+}
+.card {
+  border: none;
+}
